@@ -1,2 +1,0 @@
-# Mmapicks
-Learn
